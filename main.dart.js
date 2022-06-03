@@ -58400,7 +58400,7 @@ rd(){var s=0,r=A.D(t.H),q=this,p,o,n,m,l,k,j,i,h
 var $async$rd=A.E(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:h=B.aB
 s=2
-return A.I($.kn().GO("assets/assets/tracklist.json"),$async$rd)
+return A.I($.kn().GO("assets/tracklist.json"),$async$rd)
 case 2:i=h.Fq(0,b,null)
 q.f=i
 if(J.fi(i))A.ajh("Failed to parse tracklist")
